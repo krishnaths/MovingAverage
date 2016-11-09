@@ -1,7 +1,7 @@
 #ifndef __FinancialSamples_MACalculator__
 #define __FinancialSamples_MACalculator__
 ###
-##
+##asfasdf
 #include <vector>
 
 class MACalculator{
