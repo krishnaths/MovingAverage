@@ -1,6 +1,7 @@
 #ifndef __FinancialSamples_MACalculator__
 #define __FinancialSamples_MACalculator__
 ###
+##
 #include <vector>
 
 class MACalculator{
